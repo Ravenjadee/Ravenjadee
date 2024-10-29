@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Ravenjadee
-- 👀 I’m interested in ... Theater
-- 🌱 I’m currently learning ...Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... Theater🎭
+- 🌱 I’m currently learning ...Data Science🔭👩‍💻
 - 😄 Pronouns: ...she/ her
 - ⚡ Fun fact: ... I am 22
 
